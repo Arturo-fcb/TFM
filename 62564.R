@@ -276,4 +276,3 @@ print(results_hr_cand[order(results_hr_cand$adj.P.Val), ])
 cox.zph(cox_multi)
  
 
-6. GSE62564 — Supervivencia: Kaplan-Meier y regresión de Cox por gen
