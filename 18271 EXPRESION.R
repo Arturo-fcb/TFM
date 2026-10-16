@@ -166,4 +166,3 @@ write.csv(top20, "Top20_DEGs.csv")
  
  
 
-2. GSE18271 — Enriquecimiento funcional
