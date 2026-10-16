@@ -284,4 +284,4 @@ writeLines(genes_up_ADRN, "genes_up_ADRN_voom.txt")
 candidatos <- c("ARPP21", "DLG2", "AXL", "MYCN")
 results_ADRN_MES[candidatos, c("logFC", "P.Value", "adj.P.Val")]
 
-4. GSE212877 — Enriquecimiento funcional
+
