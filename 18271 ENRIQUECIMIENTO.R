@@ -82,4 +82,3 @@ write.csv(as.data.frame(gsea_kegg), "GSEA_KEGG_results.csv")
  
  
 
-3. GSE212877 — Expresión diferencial ADRN vs. MES (con voom)
