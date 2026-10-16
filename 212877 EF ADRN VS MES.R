@@ -277,10 +277,7 @@ writeLines(genes_up_ADRN, "genes_up_ADRN_voom.txt")
  
 # =============================
 # 14. COMPROBACIÓN DIRECTA DE LOS 4 GENES CANDIDATOS
-# =============================
-# Esto es lo que más me interesa que me pegues de vuelta: si ARPP21 o DLG2
-# cruzan el umbral de significación con voom, es un resultado que vale la
-# pena remarcar en el TFM.
+
 candidatos <- c("ARPP21", "DLG2", "AXL", "MYCN")
 results_ADRN_MES[candidatos, c("logFC", "P.Value", "adj.P.Val")]
 
