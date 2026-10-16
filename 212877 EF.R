@@ -242,4 +242,4 @@ write.csv(as.data.frame(gsea), "GSEA_GO.csv")
 cat("Pipeline completo ejecutado\n")
 ###### El codigo es elaboracion propia pero estructurado con IA
 
-5. GSE62564 — Carga de datos, expresión diferencial HR vs. non-HR y enriquecimiento
+
